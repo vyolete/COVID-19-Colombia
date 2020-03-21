@@ -130,7 +130,7 @@ id,fecha,ciudad,atencion,edad,sexo,caso,origen
 129,20/03/2020,Pereira,casa,20 a 29,F,Importado,España
 130,20/03/2020,Anapoima,casa,50 a 59,M,Importado,Estados Unidos
 131,20/03/2020,Medellin,casa,20 a 29,F,Importado,España-Italia
-132,20/03/2020,Cali,casa,30 a 39,M,Relacionado,Estados Unidos
+132,20/03/2020,Cali,casa,30 a 39,M,Relacionado,Colombia
 133,20/03/2020,Rionegro,Hospital,50 a 59,M,Importado,
 134,20/03/2020,Medellin,casa,20 a 29,M,Relacionado,Colombia
 135,20/03/2020,Medellin,casa,40 a 49,F,Importado,Alemania
@@ -144,3 +144,16 @@ id,fecha,ciudad,atencion,edad,sexo,caso,origen
 143,20/03/2020,Envigado,casa,40 a 49,M,Importado,España-Italia
 144,20/03/2020,Medellin,casa,40 a 49,M,Relacionado,Colombia
 145,20/03/2020,Medellin,casa,10 a 19,F,Relacionado,España
+146,20/03/2020,Bogotá,casa,30 a 39,F,Relacionado,Colombia
+147,20/03/2020,Bogotá,casa,20 a 29,F,Relacionado,Colombia
+148,20/03/2020,Bogotá,casa,30 a 39,M,Relacionado,Colombia
+149,20/03/2020,Bogotá,casa,30 a 39,M,Importado,Alemania-Estambul
+150,20/03/2020,Bogotá,casa,20 a 29,F,Importado,Italia-Ucrania-Turquia
+151,20/03/2020,Bogotá,casa,40 a 49,M,Importado,Ecuador
+152,20/03/2020,Bogotá,casa,60 a 69,M,Importado,Estados Unidos
+153,20/03/2020,Bogotá,casa,50 a 59,F,En estudio,
+154,20/03/2020,Bogotá,casa,40 a 49,M,Importado,Jamaica-Pánama-Islas Caimán
+155,20/03/2020,Santa Marta,casa,20 a 29,M,Importado,España
+156,20/03/2020,Chía,casa,20 a 29,F,Importado,España
+157,20/03/2020,Santa Marta,Hospital,80 a 89,M,En estudio,
+158,20/03/2020,Madrid,casa,30 a 39,M,Relacionado,Colombia

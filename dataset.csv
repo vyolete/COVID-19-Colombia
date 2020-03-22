@@ -180,7 +180,7 @@ id,fecha,ciudad,atencion,edad,sexo,caso,origen
 179,21/03/2020,Cartagena,casa,40 a 49,F,En estudio,Colombia
 180,21/03/2020,Villa del Rosario,casa,20 a 29,M,Importado,España
 181,21/03/2020,Manizales,casa,20 a 29,F,Importado,Estados Unidos
-182,21/03/2020,Cúcuta,casa,40 a 49,F,Relacionado,España
+182,21/03/2020,Cúcuta,casa,40 a 49,F,Relacionado,Colombia
 183,21/03/2020,Cali,casa,40 a 49,F,Importado,Ecuador
 184,21/03/2020,Pereira,Hospital,40 a 49,F,Importado,Estados Unidos
 185,21/03/2020,Palmira,casa,50 a 59,F,Relacionado,Colombia
@@ -195,3 +195,17 @@ id,fecha,ciudad,atencion,edad,sexo,caso,origen
 194,21/03/2020,Palmira,casa,60 a 69,F,Importado,España
 195,21/03/2020,Pereira,casa,60 a 69,F,Importado,Estados Unidos
 196,21/03/2020,Neiva,casa,50 a 59,F,Importado,España
+197,21/03/2020,Cartagena,fallecido,50 a 59,M,Relacionado,Colombia
+198,21/03/2020,Medellín,casa,30 a 39,M,Importado,España
+199,21/03/2020,Guarne,casa,20 a 29,M,Importado,Estados Unidos
+200,21/03/2020,Cartagena,casa,50 a 59,F,Relacionado,Colombia
+201,21/03/2020,Chía,casa,50 a 59,F,Importado,España
+202,21/03/2020,Itaguí,Hospital,50 a 59,M,En estudio,
+203,21/03/2020,Barranquilla,casa,20 a 29,F,Importado,Estados Unidos
+204,21/03/2020,Barranquilla,casa,30 a 39,M,Importado,Estados Unidos
+205,21/03/2020,Bogotá,casa,20 a 29,M,Relacionado,Colombia
+206,21/03/2020,Bogotá,casa,60 a 69,F,Importado,España
+207,21/03/2020,Bogotá,casa,40 a 49,M,Importado,Guatemala
+208,21/03/2020,Bogotá,casa,60 a 69,M,Importado,España
+209,21/03/2020,Bogotá,casa,60 a 69,F,Importado,Reino Unido
+210,21/03/2020,Bogotá,casa,50 a 59,M,Importado,Turquia

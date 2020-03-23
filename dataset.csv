@@ -1,232 +1,236 @@
-id,fecha,ciudad,atencion,edad,sexo,caso,origen
-1,06/03/2020,Bogotá,Casa,10 a 19,F,Importado,Italia
-2,09/03/2020,Buga,Hospital,30 a 39,M,Importado,España
-3,09/03/2020,Medellín,Casa,50 a 59,F,Importado,España
-4,11/03/2020,Medellín,Casa,50 a 59,M,Relacionado,Colombia
-5,11/03/2020,Medellín,Casa,20 a 29,M,Relacionado,Colombia
-6,11/03/2020,Itagüí,Casa,20 a 29,F,Relacionado,Colombia
-7,11/03/2020,Cartagena,Hospital,80 a 89,F,Importado,Estados Unidos
-8,11/03/2020,Bogotá,Casa,20 a 29,F,Importado,España
-9,11/03/2020,Bogotá,Casa,20 a 29,F,Importado,España-Italia
-10,12/03/2020,Bogotá,Casa,30 a 39,F,Importado,España
-11,12/03/2020,Bogotá,Casa,40 a 49,F,Importado,España
-12,12/03/2020,Neiva,Hospital,70 a 79,F,Importado,Italia
-13,12/03/2020,Neiva,Hospital,60 a 69,F,Relacionado,Colombia
-14,13/03/2020,Palmira,Casa,40 a 49,M,Importado,España
-15,13/03/2020,Villavicencio,Casa,30 a 39,F,Importado,España
-16,13/03/2020,Bogotá,Hospital,60 a 69,F,Importado,Italia-Ucrania-España
-17,14/03/2020,Bogotá,Casa,70 a 79,F,Importado,España
-18,14/03/2020,Bogotá,Casa,50 a 59,M,Importado,España
-19,14/03/2020,Bogotá,Casa,50 a 59,F,Relacionado,Colombia
-20,14/03/2020,Medellín,Casa,20 a 29,F,Relacionado,Colombia
-21,14/03/2020,Medellín,Casa,20 a 29,M,Relacionado,Colombia
-22,14/03/2020,Rionegro,Casa,30 a 39,M,Importado,Estados Unidos
-23,14/03/2020,Bogotá,Casa,20 a 29,M,Relacionado,Colombia
-24,14/03/2020,Bogotá,Casa,10 a 19,F,Importado,España
-25,15/03/2020,Cali,Casa,40 a 49,M,Importado,España
-26,15/03/2020,Cartagena,Casa,30 a 39,F,Relacionado,Colombia
-27,15/03/2020,Cartagena,Casa,30 a 39,F,Relacionado,Colombia
-28,15/03/2020,Dosquebradas,Casa,20 a 29,M,Importado,Estados Unidos
-29,15/03/2020,Neiva,Casa,50 a 59,F,Relacionado,Colombia
-30,15/03/2020,Cúcuta,Casa,40 a 49,F,Importado,España
-31,15/03/2020,Manizales,Casa,60 a 69,M,Importado,Estados Unidos
-32,15/03/2020,Medellín,Casa,50 a 59,M,Importado,España-Croacia-Bosnia
-33,15/03/2020,Bogotá,Casa,50 a 59,M,Importado,España
-34,15/03/2020,Bogotá,Casa,20 a 29,F,Importado,España
-35,15/03/2020,Bogotá,Casa,50 a 59,M,Importado,España
-36,15/03/2020,Bogotá,Casa,70 a 79,M,Importado,Estados Unidos
-37,15/03/2020,Bogotá,Casa,40 a 49,F,Relacionado,Colombia
-38,15/03/2020,Bogotá,Casa,20 a 29,M,Importado,España
-39,15/03/2020,Bogotá,Casa,50 a 59,M,Importado,España
-40,15/03/2020,Bogotá,Casa,20 a 29,F,Importado,España
-41,15/03/2020,Neiva,Casa,70 a 79,M,Relacionado,Colombia
-42,15/03/2020,Neiva,Casa,50 a 59,F,Relacionado,Colombia
-43,15/03/2020,Neiva,Casa,70 a 79,M,Relacionado,Colombia
-44,15/03/2020,Neiva,Casa,20 a 29,F,Relacionado,Colombia
-45,15/03/2020,Subachoque,Casa,20 a 29,M,Importado,España
-46,16/03/2020,Bogotá,Casa,40 a 49,F,Relacionado,Colombia
-47,16/03/2020,Bogotá,Casa,30 a 39,M,Relacionado,Colombia
-48,16/03/2020,Bogotá,Casa,30 a 39,M,Relacionado,Colombia
-49,16/03/2020,Bogotá,Casa,40 a 49,F,Importado,España
-50,16/03/2020,Bogotá,Casa,60 a 69,F,Importado,España
-51,16/03/2020,Soacha,Casa,20 a 29,M,Importado,Ecuador
-52,16/03/2020,Bogotá,Casa,20 a 29,M,Importado,España
-53,16/03/2020,Bogotá,Casa,60 a 69,M,Importado,España
-54,16/03/2020,Bogotá,Casa,40 a 49,F,Importado,España
-55,16/03/2020,Bogotá,Casa,50 a 59,F,Relacionado,Colombia
-56,16/03/2020,Bogotá,Casa,30 a 39,M,Importado,España
-57,16/03/2020,Bogotá,Hospital,30 a 39,M,Relacionado,Colombia
-58,17/03/2020,Cartagena,Casa,20 a 29,M,Relacionado,Colombia
-59,17/03/2020,Barranquilla,Casa,20 a 29,M,Importado,España
-60,17/03/2020,Bucaramanga,Casa,20 a 29,M,Importado,España
-61,17/03/2020,Barranquilla,Casa,20 a 29,M,Importado,España
-62,17/03/2020,Cali,Casa,30 a 39,M,Importado,Italia
-63,17/03/2020,Cali,Casa,20 a 29,F,Importado,Francia
-64,17/03/2020,Bogotá,Casa,30 a 39,M,Importado,España
-65,17/03/2020,Bogotá,Casa,60 a 69,M,Relacionado,Colombia
-66,17/03/2020,Bogotá,Casa,40 a 49,F,Importado,España
-67,17/03/2020,Bogotá,Casa,20 a 29,M,Importado,España
-68,17/03/2020,Bogotá,Hospital,70 a 79,M,Importado,España
-69,17/03/2020,Bogotá,Casa,20 a 29,F,Importado,Estados Unidos
-70,17/03/2020,Bogotá,Casa,30 a 39,F,Importado,Turquía-Grecia
-71,17/03/2020,Cúcuta,Casa,50 a 59,M,Relacionado,Colombia
-72,17/03/2020,Cúcuta,Casa,20 a 29,F,Relacionado,Colombia
-73,17/03/2020,Cartagena,Casa,50 a 59,F,Relacionado,Colombia
-74,17/03/2020,Bogotá,Casa,10 a 19,M,Relacionado,Colombia
-75,17/03/2020,Bogotá,Casa,40 a 49,F,Relacionado,Colombia
-76,18/03/2020,Armenia,Casa,40 a 49,F,Importado,Italia
-77,18/03/2020,Armenia,Casa,10 a 19,M,Importado,España
-78,18/03/2020,Palmira,Casa,30 a 39,F,Relacionado,Colombia
-79,18/03/2020,Palmira,Casa,0 a 9,M,Relacionado,Colombia
-80,18/03/2020,Palmira,Casa,50 a 59,F,Relacionado,Colombia
-81,18/03/2020,Cali,Casa,40 a 49,F,Importado,Estados Unidos
-82,18/03/2020,Cali,Casa,50 a 59,M,Importado,España
-83,18/03/2020,Cali,Casa,50 a 59,M,Importado,Estados Unidos
-84,18/03/2020,Cali,Casa,50 a 59,M,Importado,Ecuador
-85,18/03/2020,Cali,Casa,40 a 49,F,Relacionado,Colombia
-86,18/03/2020,Pereira,Hospital,20 a 29,M,Importado,Francia
-87,18/03/2020,Cajicá,Casa,40 a 49,M,Importado,España
-88,18/03/2020,Tolima,Casa,30 a 39,M,Relacionado,Colombia
-89,18/03/2020,Bucaramanga,Casa,30 a 39,F,Importado,España
-90,18/03/2020,Neiva,Casa,50 a 59,F,Relacionado,Colombia
-91,18/03/2020,Cajicá,Casa,30 a 39,M,Importado,España - Italia
-92,18/03/2020,Bogotá,Casa,50 a 59,M,Relacionado,Colombia
-93,18/03/2020,Bogotá,Casa,20 a 29,F,Importado,España
-94,18/03/2020,Bogotá,Casa,50 a 59,M,Relacionado,Colombia
-95,18/03/2020,Bogotá,Hospital,60 a 69,M,Importado,Turquía
-96,18/03/2020,Bogotá,Casa,30 a 39,F,Importado,Estados Unidos
-97,18/03/2020,Cartagena,Casa,20 a 29,M,Importado,Estados Unidos
-98,18/03/2020,Cartagena,Casa,20 a 29,M,Importado,España
-99,18/03/2020,Ibagué,Casa,10 a 19,M,Relacionado,Colombia
-100,18/03/2020,Pereira,Casa,20 a 29,M,Importado,España
-101,18/03/2020,Dosquebradas,Casa,10 a 19,M,Importado,España
-102,18/03/2020,Pereira,Casa,70 a 79,M,Importado,España
-103,19/03/2020,Cartagena,Casa,20 a 29,F,Importado,España
-104,19/03/2020,Barranquilla,Casa,40 a 49,F,Importado,España
-105,19/03/2020,Palmira,Casa,20 a 29,F,Importado,España
-106,19/03/2020,Medellín,Casa,40 a 49,M,Importado,España
-107,19/03/2020,Medellín,Casa,50 a 59,M,Importado,España
-108,19/03/2020,Medellín,Casa,50 a 59,F,Importado,España
-109,19/03/2020,Bogotá,Casa,50 a 59,M,Importado,España
-110,19/03/2020,Bogotá,Casa,60 a  69,F,Importado,Estados Unidos
-111,19/03/2020,Bogotá,Casa,60 a 69,M,Relacionado,Colombia
-112,19/03/2020,Bogotá,Casa,30 a 39,M,Importado,España
-113,19/03/2020,Bogotá,Casa,30 a 39,M,Importado,Italia - España
-114,19/03/2020,Bogotá,Casa,40 a 49,M,Importado,Estados Unidos
-115,19/03/2020,Bogotá,Casa,20 a 29,M,Importado,Ecuador
-116,19/03/2020,Bogotá,Casa,40 a 49,F,En estudio,Colombia
-117,19/03/2020,Cúcuta,Casa,20 a 29,M,Importado,España
-118,19/03/2020,Cúcuta,Casa,50 a 59,M,Importado,Colombia
-119,19/03/2020,Cúcuta,Casa,20 a 29,M,Relacionado,Colombia
-120,19/03/2020,Armenia,Casa,20 a 29,F,Relacionado,Colombia
-121,19/03/2020,Popayán,Casa,60 a 69,M,Relacionado,Colombia
-122,19/03/2020,Popayán,Casa,30 a 39,F,Importado,España
-123,19/03/2020,Viterbo,Casa,30 a 39,F,Importado,España
-124,19/03/2020,Neiva,Casa,70 a 79,F,Relacionado,Colombia
-125,19/03/2020,Cartagena,Casa,40 a 49,M,Importado,España
-126,19/03/2020,Barranquilla,Casa,50 a 59,F,Importado,Estados Unidos
-127,19/03/2020,Barranquilla,Casa,30 a 39,F,Relacionado,Colombia
-128,19/03/2020,Soacha,Casa,50 a 59,M,En estudio,Colombia
-129,20/03/2020,Pereira,Casa,20 a 29,F,Importado,España
-130,20/03/2020,Anapoima,Casa,50 a 59,M,Importado,Estados Unidos
-131,20/03/2020,Medellín,Casa,20 a 29,F,Importado,España - Italia
-132,20/03/2020,Cali,Casa,30 a 39,M,Relacionado,Colombia
-133,20/03/2020,Rionegro,Hospital,50 a 59,M,Relacionado,Colombia
-134,20/03/2020,Medellín,Casa,20 a 29,M,Relacionado,Colombia
-135,20/03/2020,Medellín,Casa,40 a 49,F,Importado,Alemania
-136,20/03/2020,Medellín,Casa,30 a 39,M,Relacionado,Colombia
-137,20/03/2020,Medellín,Casa,50 a 59,M,Importado,España-Croacia
-138,20/03/2020,Bogotá,Casa,50 a 59,M,Importado,Ecuador
-139,20/03/2020,Bogotá,Casa,30 a 39,M,Importado,España-India
-140,20/03/2020,Bogotá,Casa,30 a 39,M,Importado,Brasil
-141,20/03/2020,Medellín,Casa,60 a 69,F,Relacionado,Colombia
-142,20/03/2020,Medellín,Casa,30 a 39,F,Importado,Italia- Jamaica- Panamá
-143,20/03/2020,Envigado,Casa,40 a 49,M,Importado,España-Italia
-144,20/03/2020,Medellín,Casa,40 a 49,M,Relacionado,Colombia
-145,20/03/2020,Medellín,Casa,10 a 19,F,Relacionado,Colombia
-146,20/03/2020,Bogotá,Casa,30 a 39,F,Relacionado,Colombia
-147,20/03/2020,Bogotá,Casa,20 a 29,F,Relacionado,Colombia
-148,20/03/2020,Bogotá,Casa,30 a 39,M,Relacionado,Colombia
-149,20/03/2020,Bogotá,Casa,30 a 39,M,Importado,Alemania-Estambul
-150,20/03/2020,Bogotá,Casa,20 a 29,F,Importado,Italia-Ucrania-Turquía
-151,20/03/2020,Bogotá,Casa,40 a 49,M,Importado,Ecuador
-152,20/03/2020,Bogotá,Casa,60 a 69,M,Importado,Estados Unidos
-153,20/03/2020,Bogotá,Casa,50 a 59,F,En estudio,
-154,20/03/2020,Bogotá,Casa,40 a 49,M,Importado,Jamaica-Panamá-Islas Caimán
-155,20/03/2020,Santa Marta,Casa,20 a 29,M,Importado,España
-156,20/03/2020,Chía,Casa,20 a 29,F,Importado,España
-157,20/03/2020,Santa Marta,Hospital,80 a 89,M,En estudio,
-158,20/03/2020,Madrid,Casa,30 a 39,M,Relacionado,Colombia
-159,20/03/2020,Bogotá,Casa,30 a 39,M,Importado,Estados Unidos
-160,20/03/2020,Bogotá,Casa,40 a 49,F,Importado,Estados Unidos
-161,20/03/2020,Bogotá,Casa,20 a 29,F,Importado,Estados Unidos
-162,20/03/2020,Bogotá,Casa,20 a 29,M,Importado,Estados Unidos-México
-163,20/03/2020,Bogotá,Casa,20 a 29,M,Relacionado,Colombia
-164,20/03/2020,Bogotá,Casa,60 a 69,F,Relacionado,Colombia
-165,20/03/2020,Bogotá,Casa,30 a 39,F,Relacionado,Colombia
-166,20/03/2020,Bogotá,Casa,40 a 49,F,Relacionado,Colombia
-167,20/03/2020,Bogotá,Casa,40 a 49,F,Relacionado,Colombia
-168,20/03/2020,Bogotá,Casa,20 a 29,F,Importado,España
-169,20/03/2020,Bogotá,Casa,40 a 49,F,Relacionado,Colombia
-170,20/03/2020,Bogotá,Casa,40 a 49,F,Importado,Grecia
-171,20/03/2020,Bogotá,Casa,20 a 29,F,Relacionado,Colombia
-172,20/03/2020,Bogotá,Casa,20 a 29,M,Relacionado,Colombia
-173,20/03/2020,Bogotá,Casa,60 a 69,F,Importado,México
-174,20/03/2020,Bogotá,Casa,70 a 79,M,Importado,México
-175,20/03/2020,Bogotá,Casa,20 a 29,F,Importado,España
-176,21/03/2020,Ibagué,Casa,20 a 29,F,Importado,Estados Unidos
-177,21/03/2020,Cartagena,Casa,20 a 29,M,En estudio,Colombia
-178,21/03/2020,Cartagena,Casa,20 a 29,M,Importado,Estados Unidos
-179,21/03/2020,Cartagena,Casa,40 a 49,F,En estudio,Colombia
-180,21/03/2020,Villa del Rosario,Casa,20 a 29,M,Importado,España
-181,21/03/2020,Manizales,Casa,20 a 29,F,Importado,Estados Unidos
-182,21/03/2020,Cúcuta,Casa,40 a 49,F,Relacionado,Colombia
-183,21/03/2020,Cali,Casa,40 a 49,F,Importado,Ecuador
-184,21/03/2020,Pereira,Hospital,40 a 49,F,Importado,Estados Unidos
-185,21/03/2020,Palmira,Casa,50 a 59,F,Relacionado,Colombia
-186,21/03/2020,Palmira,Casa,50 a 59,F,Importado,España
-187,21/03/2020,Cali,Casa,70 a 79,M,En estudio,Colombia
-188,21/03/2020,Cali,Hospital,30 a 39,F,Relacionado,Colombia
-189,21/03/2020,Cali,Casa,80 a 89,F,Importado,Estados Unidos
-190,21/03/2020,Cali,Casa,20 a 29,M,Importado,España
-191,21/03/2020,Palmira,Casa,10 a 19,M,Importado,Estados Unidos
-192,21/03/2020,Cali,Casa,30 a 39,F,Relacionado,Colombia
-193,21/03/2020,Cali,Casa,50 a 59,F,Importado,Italia
-194,21/03/2020,Palmira,Casa,60 a 69,F,Importado,España
-195,21/03/2020,Pereira,Casa,60 a 69,F,Importado,Estados Unidos
-196,21/03/2020,Neiva,Casa,50 a 59,F,Importado,España
-197,21/03/2020,Cartagena,Fallecido,50 a 59,M,Relacionado,Colombia
-198,21/03/2020,Medellín,Casa,30 a 39,M,Importado,España
-199,21/03/2020,Guarne,Casa,20 a 29,M,Importado,Estados Unidos
-200,21/03/2020,Cartagena,Casa,50 a 59,F,Relacionado,Colombia
-201,21/03/2020,Chía,Casa,50 a 59,F,Importado,España
-202,21/03/2020,Itaguí,Hospital,50 a 59,M,En estudio,
-203,21/03/2020,Barranquilla,Casa,20 a 29,F,Importado,Estados Unidos
-204,21/03/2020,Barranquilla,Casa,30 a 39,M,Importado,Estados Unidos
-205,21/03/2020,Bogotá,Casa,20 a 29,M,Relacionado,Colombia
-206,21/03/2020,Bogotá,Casa,60 a 69,F,Importado,España
-207,21/03/2020,Bogotá,Casa,40 a 49,M,Importado,Guatemala
-208,21/03/2020,Bogotá,Casa,60 a 69,M,Importado,España
-209,21/03/2020,Bogotá,Casa,60 a 69,F,Importado,Reino Unido
-210,21/03/2020,Bogotá,Casa,50 a 59,M,Importado,Turquia
-211,22/03/2020,Calarcá,Casa,20 a 29,M,Importado,España
-212,22/03/2020,Armenia,Casa,50 a 59,F,Relacionado,Colombia
-213,22/03/2020,Valledupar,Casa,30 a 39,M,Importado,España
-214,22/03/2020,Pereira,Casa,50 a 59,F,Relacionado,Colombia
-215,22/03/2020,Pereira,Casa,50 a 59,F,Importado,Grecia
-216,22/03/2020,Dosquebradas,Casa,40 a 49,M,Importado,España
-217,22/03/2020,Pereira,Casa,30 a 39,M,En estudio,Colombia
-218,22/03/2020,La Dorada,Casa,20 a 29,F,En estudio,Colombia
-219,22/03/2020,Chinchiná,Casa,50 a 59,M,Importado,España
-220,22/03/2020,Chinchiná,Casa,40 a 49,F,Relacionado,Colombia
-221,22/03/2020,Bucaramanga,Casa,50 a 59,F,Importado,República Dominicana
-222,22/03/2020,San Andrés Islas,Casa,30 a 39,M,Relacionado,Colombia
-223,22/03/2020,Pereira,Casa,70 a 79,F,Importado,Estados Unidos
-224,22/03/2020,Ibagué,Casa,10 a 19,M,Relacionado,Colombia
-225,22/03/2020,Cali,Casa,20 a 29,M,Relacionado,Colombia
-226,22/03/2020,Yumbo,Casa,40 a 49,F,Relacionado,Colombia
-227,22/03/2020,Cali,Casa,20 a 29,M,Importado,Estados Unidos
-228,22/03/2020,Cali,Casa,20 a 29,M,Importado,España
-229,22/03/2020,Yopal,Casa,30 a 39,F,Relacionado,Colombia
-230,22/03/2020,Armenia,Casa,30 a 39,F,Relacionado,Colombia
-231,22/03/2020,Cali,Casa,40 a 49,F,Relacionado,Colombia
+id,fecha,ciudad,departamento,atencion,edad,sexo,caso,origen
+1,03/06/2020,Bogotá,Bogotá,Casa,10 a 19,F,Importado,Italia
+2,03/09/2020,Buga,Valle,Hospital,30 a 39,M,Importado,España
+3,03/09/2020,Medellín,Antioquia,Casa,50 a 59,F,Importado,España
+4,03/11/2020,Medellín,Antioquia,Casa,50 a 59,M,Relacionado,Colombia
+5,03/11/2020,Medellín,Antioquia,Casa,20 a 29,M,Relacionado,Colombia
+6,03/11/2020,Itagüí,Antioquia,Casa,20 a 29,F,Relacionado,Colombia
+7,03/11/2020,Cartagena,Bolívar,Hospital,80 a 89,F,Importado,Estados Unidos
+8,03/11/2020,Bogotá,Bogotá,Casa,20 a 29,F,Importado,España
+9,03/11/2020,Bogotá,Bogotá,Casa,20 a 29,F,Importado,España-Italia
+10,03/12/2020,Bogotá,Bogotá,Casa,30 a 39,F,Importado,España
+11,03/12/2020,Bogotá,Bogotá,Casa,40 a 49,F,Importado,España
+12,03/12/2020,Neiva,Huila,Hospital,70 a 79,F,Importado,Italia
+13,03/12/2020,Neiva,Huila,Hospital,60 a 69,F,Relacionado,Colombia
+14,03/13/2020,Palmira,Valle,Casa,40 a 49,M,Importado,España
+15,03/13/2020,Villavicencio,Meta,Casa,30 a 39,F,Importado,España
+16,03/13/2020,Bogotá,Bogotá,Hospital,60 a 69,F,Importado,Italia-Ucrania-España
+17,03/14/2020,Bogotá,Bogotá,Casa,70 a 79,F,Importado,España
+18,03/14/2020,Bogotá,Bogotá,Casa,50 a 59,M,Importado,España
+19,03/14/2020,Bogotá,Bogotá,Casa,50 a 59,F,Relacionado,Colombia
+20,03/14/2020,Medellín,Antioquia,Casa,20 a 29,F,Relacionado,Colombia
+21,03/14/2020,Medellín,Antioquia,Casa,20 a 29,M,Relacionado,Colombia
+22,03/14/2020,Rionegro,Antioquia,Casa,30 a 39,M,Importado,Estados Unidos
+23,03/14/2020,Bogotá,Bogotá,Casa,20 a 29,M,Relacionado,Colombia
+24,03/14/2020,Bogotá,Bogotá,Casa,10 a 19,F,Importado,España
+25,03/15/2020,Cali,Valle,Casa,40 a 49,M,Importado,España
+26,03/15/2020,Cartagena,Bolívar,Casa,30 a 39,F,Relacionado,Colombia
+27,03/15/2020,Cartagena,Bolívar,Casa,30 a 39,F,Relacionado,Colombia
+28,03/15/2020,Dosquebradas,Risaralda,Casa,20 a 29,M,Importado,Estados Unidos
+29,03/15/2020,Neiva,Huila,Casa,50 a 59,F,Relacionado,Colombia
+30,03/15/2020,Cúcuta,Norte de Santander,Casa,40 a 49,F,Importado,España
+31,03/15/2020,Manizales,Caldas,Casa,60 a 69,M,Importado,Estados Unidos
+32,03/15/2020,Medellín,Antioquia,Casa,50 a 59,M,Importado,España-Croacia-Bosnia
+33,03/15/2020,Bogotá,Bogotá,Casa,50 a 59,M,Importado,España
+34,03/15/2020,Bogotá,Bogotá,Casa,20 a 29,F,Importado,España
+35,03/15/2020,Bogotá,Bogotá,Casa,50 a 59,M,Importado,España
+36,03/15/2020,Bogotá,Bogotá,Casa,70 a 79,M,Importado,Estados Unidos
+37,03/15/2020,Bogotá,Bogotá,Casa,40 a 49,F,Relacionado,Colombia
+38,03/15/2020,Bogotá,Bogotá,Casa,20 a 29,M,Importado,España
+39,03/15/2020,Bogotá,Bogotá,Casa,50 a 59,M,Importado,España
+40,03/15/2020,Bogotá,Bogotá,Casa,20 a 29,F,Importado,España
+41,03/15/2020,Neiva,Huila,Casa,70 a 79,M,Relacionado,Colombia
+42,03/15/2020,Neiva,Huila,Casa,50 a 59,F,Relacionado,Colombia
+43,03/15/2020,Neiva,Huila,Casa,70 a 79,M,Relacionado,Colombia
+44,03/15/2020,Neiva,Huila,Casa,20 a 29,F,Relacionado,Colombia
+45,03/15/2020,Subachoque,Cundinamarca,Casa,20 a 29,M,Importado,España
+46,03/16/2020,Bogotá,Bogotá,Casa,40 a 49,F,Relacionado,Colombia
+47,03/16/2020,Bogotá,Bogotá,Casa,30 a 39,M,Relacionado,Colombia
+48,03/16/2020,Bogotá,Bogotá,Casa,30 a 39,M,Relacionado,Colombia
+49,03/16/2020,Bogotá,Bogotá,Casa,40 a 49,F,Importado,España
+50,03/16/2020,Bogotá,Bogotá,Casa,60 a 69,F,Importado,España
+51,03/16/2020,Soacha,Cundinamarca,Casa,20 a 29,M,Importado,Ecuador
+52,03/16/2020,Bogotá,Bogotá,Casa,20 a 29,M,Importado,España
+53,03/16/2020,Bogotá,Bogotá,Casa,60 a 69,M,Importado,España
+54,03/16/2020,Bogotá,Bogotá,Casa,40 a 49,F,Importado,España
+55,03/16/2020,Bogotá,Bogotá,Casa,50 a 59,F,Relacionado,Colombia
+56,03/16/2020,Bogotá,Bogotá,Casa,30 a 39,M,Importado,España
+57,03/16/2020,Bogotá,Bogotá,Hospital,30 a 39,M,Relacionado,Colombia
+58,03/17/2020,Cartagena,Bolívar,Casa,20 a 29,M,Relacionado,Colombia
+59,03/17/2020,Barranquilla,Atlántico,Casa,20 a 29,M,Importado,España
+60,03/17/2020,Bucaramanga,Santander,Casa,20 a 29,M,Importado,España
+61,03/17/2020,Barranquilla,Atlántico,Casa,20 a 29,M,Importado,España
+62,03/17/2020,Cali,Valle,Casa,30 a 39,M,Importado,Italia
+63,03/17/2020,Cali,Valle,Casa,20 a 29,F,Importado,Francia
+64,03/17/2020,Bogotá,Bogotá,Casa,30 a 39,M,Importado,España
+65,03/17/2020,Bogotá,Bogotá,Casa,60 a 69,M,Relacionado,Colombia
+66,03/17/2020,Bogotá,Bogotá,Casa,40 a 49,F,Importado,España
+67,03/17/2020,Bogotá,Bogotá,Casa,20 a 29,M,Importado,España
+68,03/17/2020,Bogotá,Bogotá,Hospital,70 a 79,M,Importado,España
+69,03/17/2020,Bogotá,Bogotá,Casa,20 a 29,F,Importado,Estados Unidos
+70,03/17/2020,Bogotá,Bogotá,Casa,30 a 39,F,Importado,Turquía-Grecia
+71,03/17/2020,Cúcuta,Norte de Santander,Casa,50 a 59,M,Relacionado,Colombia
+72,03/17/2020,Cúcuta,Norte de Santander,Casa,20 a 29,F,Relacionado,Colombia
+73,03/17/2020,Cartagena,Bolívar,Casa,50 a 59,F,Relacionado,Colombia
+74,03/17/2020,Bogotá,Bogotá,Casa,10 a 19,M,Relacionado,Colombia
+75,03/17/2020,Bogotá,Bogotá,Casa,40 a 49,F,Relacionado,Colombia
+76,03/18/2020,Armenia,Quindío,Casa,40 a 49,F,Importado,Italia
+77,03/18/2020,Armenia,Quindío,Casa,10 a 19,M,Importado,España
+78,03/18/2020,Palmira,Valle,Casa,30 a 39,F,Relacionado,Colombia
+79,03/18/2020,Palmira,Valle,Casa,0 a 9,M,Relacionado,Colombia
+80,03/18/2020,Palmira,Valle,Casa,50 a 59,F,Relacionado,Colombia
+81,03/18/2020,Cali,Valle,Casa,40 a 49,F,Importado,Estados Unidos
+82,03/18/2020,Cali,Valle,Casa,50 a 59,M,Importado,España
+83,03/18/2020,Cali,Valle,Casa,50 a 59,M,Importado,Estados Unidos
+84,03/18/2020,Cali,Valle,Casa,50 a 59,M,Importado,Ecuador
+85,03/18/2020,Cali,Valle,Casa,40 a 49,F,Relacionado,Colombia
+86,03/18/2020,Pereira,Risaralda,Hospital,20 a 29,M,Importado,Francia
+87,03/18/2020,Cajicá,Cundinamarca,Casa,40 a 49,M,Importado,España
+88,03/18/2020,Tolima,Tolima,Casa,30 a 39,M,Relacionado,Colombia
+89,03/18/2020,Bucaramanga,Santander,Casa,30 a 39,F,Importado,España
+90,03/18/2020,Neiva,Huila,Casa,50 a 59,F,Relacionado,Colombia
+91,03/18/2020,Cajicá,Cundinamarca,Casa,30 a 39,M,Importado,España - Italia
+92,03/18/2020,Bogotá,Bogotá,Casa,50 a 59,M,Relacionado,Colombia
+93,03/18/2020,Bogotá,Bogotá,Casa,20 a 29,F,Importado,España
+94,03/18/2020,Bogotá,Bogotá,Casa,50 a 59,M,Importado,Colombia
+95,03/18/2020,Bogotá,Bogotá,Hospital,60 a 69,M,Importado,Turquía
+96,03/18/2020,Bogotá,Bogotá,Casa,30 a 39,F,Importado,Estados Unidos
+97,03/18/2020,Cartagena,Bolívar,Casa,20 a 29,M,Importado,Estados Unidos
+98,03/18/2020,Cartagena,Bolívar,Casa,20 a 29,M,Importado,España
+99,03/18/2020,Ibagué,Tolima,Casa,10 a 19,M,Relacionado,Colombia
+100,03/18/2020,Pereira,Risaralda,Casa,20 a 29,M,Importado,España
+101,03/18/2020,Dosquebradas,Risaralda,Casa,10 a 19,M,Importado,España
+102,03/18/2020,Pereira,Risaralda,Casa,70 a 79,M,Importado,España
+103,03/19/2020,Cartagena,Bolívar,Casa,20 a 29,F,Importado,España
+104,03/19/2020,Barranquilla,Atlántico,Casa,40 a 49,F,Importado,España
+105,03/19/2020,Palmira,Valle,Casa,20 a 29,F,Importado,España
+106,03/19/2020,Medellín,Antioquia,Casa,40 a 49,M,Importado,España
+107,03/19/2020,Medellín,Antioquia,Casa,50 a 59,M,Importado,España
+108,03/19/2020,Medellín,Antioquia,Casa,50 a 59,F,Importado,España
+109,03/19/2020,Bogotá,Bogotá,Casa,50 a 59,M,Importado,España
+110,03/19/2020,Bogotá,Bogotá,Casa,60 a 69,F,Importado,Estados Unidos
+111,03/19/2020,Bogotá,Bogotá,Casa,60 a 69,M,Relacionado,Colombia
+112,03/19/2020,Bogotá,Bogotá,Casa,30 a 39,M,Importado,España
+113,03/19/2020,Bogotá,Bogotá,Casa,30 a 39,M,Importado,Italia - España
+114,03/19/2020,Bogotá,Bogotá,Casa,40 a 49,M,Importado,Estados Unidos
+115,03/19/2020,Bogotá,Bogotá,Casa,20 a 29,M,Importado,Ecuador
+116,03/19/2020,Bogotá,Bogotá,Casa,40 a 49,F,En estudio,Colombia
+117,03/19/2020,Cúcuta,Norte de Santander,Casa,20 a 29,M,Importado,España
+118,03/19/2020,Cúcuta,Norte de Santander,Casa,50 a 59,M,Relacionado,Colombia
+119,03/19/2020,Cúcuta,Norte de Santander,Casa,20 a 29,M,Relacionado,Colombia
+120,03/19/2020,Armenia,Quindío,Casa,20 a 29,F,Relacionado,Colombia
+121,03/19/2020,Popayán,Cauca,Casa,60 a 69,M,Importado,Colombia
+122,03/19/2020,Popayán,Cauca,Casa,30 a 39,F,Importado,España
+123,03/19/2020,Viterbo,Caldas,Casa,30 a 39,F,Importado,España
+124,03/19/2020,Neiva,Huila,Casa,70 a 79,F,Relacionado,Colombia
+125,03/19/2020,Cartagena,Bolívar,Casa,40 a 49,M,Importado,España
+126,03/19/2020,Barranquilla,Atlántico,Casa,50 a 59,F,Importado,Estados Unidos
+127,03/19/2020,Barranquilla,Atlántico,Casa,30 a 39,F,Relacionado,Colombia
+128,03/19/2020,Soacha,Cundinamarca,Casa,50 a 59,M,En estudio,Colombia
+129,03/20/2020,Pereira,Risaralda,Casa,20 a 29,F,Importado,España
+130,03/20/2020,Anapoima,Cundinamarca,Casa,50 a 59,M,Importado,Estados Unidos
+131,03/20/2020,Medellín,Antioquia,Casa,20 a 29,F,Importado,España - Italia
+132,03/20/2020,Cali,Valle,Casa,30 a 39,M,Relacionado,Colombia
+133,03/20/2020,Rionegro,Antioquia,Hospital,50 a 59,M,Relacionado,Colombia
+134,03/20/2020,Medellín,Antioquia,Casa,20 a 29,M,Relacionado,Colombia
+135,03/20/2020,Medellín,Antioquia,Casa,40 a 49,F,Importado,Alemania
+136,03/20/2020,Medellín,Antioquia,Casa,30 a 39,M,Relacionado,Colombia
+137,03/20/2020,Medellín,Antioquia,Casa,50 a 59,M,Importado,España-Croacia
+138,03/20/2020,Bogotá,Bogotá,Casa,50 a 59,M,Importado,Ecuador
+139,03/20/2020,Bogotá,Bogotá,Casa,30 a 39,M,Importado,España-India
+140,03/20/2020,Bogotá,Bogotá,Casa,30 a 39,M,Importado,Brasil
+141,03/20/2020,Medellín,Antioquia,Casa,60 a 69,F,Importado,Colombia
+142,03/20/2020,Medellín,Antioquia,Casa,30 a 39,F,Importado,Italia- Jamaica- Panamá
+143,03/20/2020,Envigado,Antioquia,Casa,40 a 49,M,Importado,España-Italia
+144,03/20/2020,Medellín,Antioquia,Casa,40 a 49,M,Importado,Colombia
+145,03/20/2020,Medellín,Antioquia,Casa,10 a 19,F,Relacionado,Colombia
+146,03/20/2020,Bogotá,Bogotá,Casa,30 a 39,F,Relacionado,Colombia
+147,03/20/2020,Bogotá,Bogotá,Casa,20 a 29,F,Relacionado,Colombia
+148,03/20/2020,Bogotá,Bogotá,Casa,30 a 39,M,Relacionado,Colombia
+149,03/20/2020,Bogotá,Bogotá,Casa,30 a 39,M,Importado,Alemania-Estambul
+150,03/20/2020,Bogotá,Bogotá,Casa,20 a 29,F,Importado,Italia-Ucrania-Turquía
+151,03/20/2020,Bogotá,Bogotá,Casa,40 a 49,M,Importado,Ecuador
+152,03/20/2020,Bogotá,Bogotá,Casa,60 a 69,M,Importado,Estados Unidos
+153,03/20/2020,Bogotá,Bogotá,Casa,50 a 59,F,En estudio,
+154,03/20/2020,Bogotá,Bogotá,Casa,40 a 49,M,Importado,Jamaica-Panamá-Islas Caimán
+155,03/20/2020,Santa Marta,Magdalena,Casa,20 a 29,M,Importado,España
+156,03/20/2020,Chía,Cundinamarca,Casa,20 a 29,F,Importado,España
+157,03/20/2020,Santa Marta,Magdalena,Hospital,80 a 89,M,En estudio,
+158,03/20/2020,Madrid,Cundinamarca,Casa,30 a 39,M,Relacionado,Colombia
+159,03/20/2020,Bogotá,Bogotá,Casa,30 a 39,M,Importado,Estados Unidos
+160,03/20/2020,Bogotá,Bogotá,Casa,40 a 49,F,Importado,Estados Unidos
+161,03/20/2020,Bogotá,Bogotá,Casa,20 a 29,F,Importado,Estados Unidos
+162,03/20/2020,Bogotá,Bogotá,Casa,20 a 29,M,Importado,Estados Unidos-México
+163,03/20/2020,Bogotá,Bogotá,Casa,20 a 29,M,Relacionado,Colombia
+164,03/20/2020,Bogotá,Bogotá,Casa,60 a 69,F,Importado,Colombia
+165,03/20/2020,Bogotá,Bogotá,Casa,30 a 39,F,Relacionado,Colombia
+166,03/20/2020,Bogotá,Bogotá,Casa,40 a 49,F,Relacionado,Colombia
+167,03/20/2020,Bogotá,Bogotá,Casa,40 a 49,F,Relacionado,Colombia
+168,03/20/2020,Bogotá,Bogotá,Casa,20 a 29,F,Importado,España
+169,03/20/2020,Bogotá,Bogotá,Casa,40 a 49,F,Relacionado,Colombia
+170,03/20/2020,Bogotá,Bogotá,Casa,40 a 49,F,Importado,Grecia
+171,03/20/2020,Bogotá,Bogotá,Casa,20 a 29,F,Relacionado,Colombia
+172,03/20/2020,Bogotá,Bogotá,Casa,20 a 29,M,Relacionado,Colombia
+173,03/20/2020,Bogotá,Bogotá,Casa,60 a 69,F,Importado,México
+174,03/20/2020,Bogotá,Bogotá,Casa,70 a 79,M,Importado,México
+175,03/20/2020,Bogotá,Bogotá,Casa,20 a 29,F,Importado,España
+176,03/21/2020,Ibagué,Tolima,Casa,20 a 29,F,Importado,Estados Unidos
+177,03/21/2020,Cartagena,Bolívar,Casa,20 a 29,M,Relacionado,Colombia
+178,03/21/2020,Cartagena,Bolívar,Casa,20 a 29,M,Importado,Estados Unidos
+179,03/21/2020,Cartagena,Bolívar,Casa,40 a 49,F,Relacionado,Colombia
+180,03/21/2020,Villa del Rosario,Norte de Santander,Casa,20 a 29,M,Importado,España
+181,03/21/2020,Manizales,Caldas,Casa,20 a 29,F,Importado,Estados Unidos
+182,03/21/2020,Cúcuta,Norte de Santander,Casa,40 a 49,F,Relacionado,Colombia
+183,03/21/2020,Cali,Valle,Casa,40 a 49,F,Importado,Ecuador
+184,03/21/2020,Pereira,Risaralda,Hospital,40 a 49,F,Importado,Estados Unidos
+185,03/21/2020,Palmira,Valle,Casa,50 a 59,F,Relacionado,Colombia
+186,03/21/2020,Palmira,Valle,Casa,50 a 59,F,Importado,España
+187,03/21/2020,Cali,Valle,Casa,70 a 79,M,Relacionado,Colombia
+188,03/21/2020,Cali,Valle,Fallecido,70 a 79,F,Relacionado,Colombia
+189,03/21/2020,Cali,Valle,Casa,80 a 89,F,Importado,Estados Unidos
+190,03/21/2020,Cali,Valle,Casa,20 a 29,M,Importado,España
+191,03/21/2020,Palmira,Valle,Casa,10 a 19,M,Importado,Estados Unidos
+192,03/21/2020,Cali,Valle,Casa,30 a 39,F,Relacionado,Colombia
+193,03/21/2020,Cali,Valle,Casa,50 a 59,F,Importado,Italia
+194,03/21/2020,Palmira,Valle,Casa,60 a 69,F,Importado,España
+195,03/21/2020,Pereira,Risaralda,Casa,60 a 69,F,Importado,Estados Unidos
+196,03/21/2020,Neiva,Huila,Casa,50 a 59,F,Importado,España
+197,03/21/2020,Cartagena,Bolívar,Fallecido,50 a 59,M,Relacionado,Colombia
+198,03/21/2020,Medellín,Antioquia,Casa,30 a 39,M,Importado,España
+199,03/21/2020,Guarne,Antioquia,Casa,20 a 29,M,Importado,Estados Unidos
+200,03/21/2020,Cartagena,Bolívar,Casa,50 a 59,F,Relacionado,Colombia
+201,03/21/2020,Chía,Cundinamarca,Casa,50 a 59,F,Importado,España
+202,03/21/2020,Itaguí,Antioquia,Hospital,50 a 59,M,En estudio,
+203,03/21/2020,Barranquilla,Atlántico,Casa,20 a 29,F,Importado,Estados Unidos
+204,03/21/2020,Barranquilla,Atlántico,Casa,30 a 39,M,Importado,Estados Unidos
+205,03/21/2020,Bogotá,Bogotá,Casa,20 a 29,M,Relacionado,Colombia
+206,03/21/2020,Bogotá,Bogotá,Casa,60 a 69,F,Importado,España
+207,03/21/2020,Bogotá,Bogotá,Casa,40 a 49,M,Importado,Guatemala
+208,03/21/2020,Bogotá,Bogotá,Casa,60 a 69,M,Importado,España
+209,03/21/2020,Bogotá,Bogotá,Casa,60 a 69,F,Importado,Reino Unido
+210,03/21/2020,Bogotá,Bogotá,Casa,50 a 59,M,Importado,Turquia
+211,03/22/2020,Calarcá,Quindío,Casa,20 a 29,M,Importado,España
+212,03/22/2020,Armenia,Quindío,Casa,50 a 59,F,Relacionado,Colombia
+213,03/22/2020,Valledupar,Cesar,Casa,30 a 39,M,Importado,España
+214,03/22/2020,Pereira,Risaralda,Casa,50 a 59,F,Relacionado,Colombia
+215,03/22/2020,Pereira,Risaralda,Casa,50 a 59,F,Importado,Grecia
+216,03/22/2020,Dosquebradas,Risaralda,Casa,40 a 49,M,Importado,España
+217,03/22/2020,Pereira,Risaralda,Casa,30 a 39,M,En estudio,Colombia
+218,03/22/2020,La Dorada,Caldas,Casa,20 a 29,F,En estudio,Colombia
+219,03/22/2020,Chinchiná,Caldas,Casa,50 a 59,M,Importado,España
+220,03/22/2020,Chinchiná,Caldas,Casa,40 a 49,F,Relacionado,Colombia
+221,03/22/2020,Bucaramanga,Santander,Casa,50 a 59,F,Importado,República Dominicana
+222,03/22/2020,San Andrés Islas,San Andrés Islas,Casa,30 a 39,M,Relacionado,Colombia
+223,03/22/2020,Pereira,Risaralda,Casa,70 a 79,F,Importado,Estados Unidos
+224,03/22/2020,Ibagué,Tolima,Casa,10 a 19,M,Relacionado,Colombia
+225,03/22/2020,Cali,Valle,Casa,20 a 29,M,Relacionado,Colombia
+226,03/22/2020,Yumbo,Valle,Casa,40 a 49,F,Relacionado,Colombia
+227,03/22/2020,Cali,Valle,Casa,20 a 29,M,Importado,Estados Unidos
+228,03/22/2020,Cali,Valle,Casa,20 a 29,M,Importado,España
+229,03/22/2020,Yopal,Casanare,Casa,30 a 39,F,Relacionado,Colombia
+230,03/22/2020,Armenia,Quindío,Casa,30 a 39,F,Relacionado,Colombia
+231,03/22/2020,Cali,Valle,Casa,40 a 49,F,Relacionado,Colombia
+232,22/03/2020,Bogotá,Bogotá,Hospital,50 a 59,F,Relacionado,Colombia
+233,22/03/2020,Bogotá,Bogotá,Casa,60 a 69,M,Relacionado,Colombia
+234,22/03/2020,Bogota,Bogotá,Hospital,40 a 49,M,Relacionado,Colombia
+235,22/03/2020,Bogotá,Bogotá,Casa,40 a 49,M,Importado,España

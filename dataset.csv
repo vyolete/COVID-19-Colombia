@@ -155,7 +155,7 @@ id,fecha,ciudad,departamento,atencion,edad,sexo,caso,origen
 154,03/20/2020,Bogotá,Bogotá,Casa,40 a 49,M,Importado,Jamaica-Panamá-Islas Caimán
 155,03/20/2020,Santa Marta,Magdalena,Casa,20 a 29,M,Importado,España
 156,03/20/2020,Chía,Cundinamarca,Casa,20 a 29,F,Importado,España
-157,03/20/2020,Santa Marta,Magdalena,Hospital,80 a 89,M,En estudio,
+157,03/20/2020,Santa Marta,Magdalena,Fallecido,80 a 89,M,En estudio,Colombia
 158,03/20/2020,Madrid,Cundinamarca,Casa,30 a 39,M,Relacionado,Colombia
 159,03/20/2020,Bogotá,Bogotá,Casa,30 a 39,M,Importado,Estados Unidos
 160,03/20/2020,Bogotá,Bogotá,Casa,40 a 49,F,Importado,Estados Unidos
@@ -234,3 +234,45 @@ id,fecha,ciudad,departamento,atencion,edad,sexo,caso,origen
 233,22/03/2020,Bogotá,Bogotá,Casa,60 a 69,M,Relacionado,Colombia
 234,22/03/2020,Bogota,Bogotá,Hospital,40 a 49,M,Relacionado,Colombia
 235,22/03/2020,Bogotá,Bogotá,Casa,40 a 49,M,Importado,España
+236,03/22/2020,Guatapé,Antioquia,Hospital,50 a 59,M,En estudio,Colombia
+237,03/22/2020,Medellín,Antioquia,Casa,30 a 39,M,Importado,España
+238,03/22/2020,Medellín,Antioquia,Casa,60 a 69,F,Importado,España
+239,03/22/2020,Bello,Antioquia,Casa,40 a 49,M,Importado,España
+240,03/22/2020,Medellín,Antioquia,Casa,30 a 39,M,En estudio,Colombia
+241,03/23/2020,Bogotá,Bogotá,Casa,50 a 59,F,En estudio,Colombia
+242,03/23/2020,Bogotá,Bogotá,Casa,40 a 49,M,Importado,Estados Unidos
+243,03/23/2020,Bogotá,Bogotá,Casa,40 a 49,M,Importado,España
+244,03/23/2020,Bogotá,Bogotá,Casa,50 a 59,M,Importado,Panamá
+245,03/23/2020,Bogotá,Bogotá,Casa,70 a 79,F,Importado,Turquía - Grecia
+246,03/23/2020,Bogotá,Bogotá,Casa,20 a 29,M,En estudio,Colombia
+247,03/23/2020,Bogotá,Bogotá,Casa,20 a 29,M,Importado,Colombia
+248,03/23/2020,Bogotá,Bogotá,Casa,30 a 39,F,Importado,República Dominicana
+249,03/23/2020,Bogotá,Bogotá,Casa,30 a 39,F,Importado,España
+250,03/23/2020,Bogotá,Bogotá,Hospital,70 a 79,M,En estudio,Colombia
+251,03/23/2020,Bogotá,Bogotá,Casa,50 a 59,M,Importado,Estados Unidos
+252,03/23/2020,Bogotá,Bogotá,Casa,30 a 39,F,En estudio,Colombia
+253,03/23/2020,Bogotá,Bogotá,Casa,30 a 39,F,Relacionado,Colombia
+254,03/23/2020,Bogotá,Bogotá,Casa,40 a 49,F,Importado,España
+255,03/23/2020,Bogotá,Bogotá,Casa,10 a 19,F,Relacionado,Colombia
+256,03/23/2020,Bogotá,Bogotá,Casa,50 a 59,F,Importado,Turquía
+257,03/23/2020,Bogotá,Bogotá,Casa,20 a 29,F,Importado,España
+258,03/23/2020,Bogotá,Bogotá,Casa,30 a 39,M,Relacionado,Colombia
+259,03/23/2020,Bogotá,Bogotá,Casa,30 a 39,M,Importado,España
+260,03/23/2020,Bogotá,Bogotá,Casa,60 a 69,F,Relacionado,Colombia
+261,03/23/2020,Bogotá,Bogotá,Casa,30 a 39,M,Relacionado,Colombia
+262,03/23/2020,Bogotá,Bogotá,Casa,30 a 39,M,Importado,Isla Martín - Caribe
+263,03/23/2020,Medellín,Antioquia,Casa,50 a 59,M,Importado,España
+264,03/23/2020,Envigado,Antioquia,Casa,30 a 39,F,Importado,España
+265,03/23/2020,Cajicá,Cundinamarca,Casa,50 a 59,M,Importado,Ecuador
+266,03/23/2020,Cartagena,Bolívar,Hospital,80 a 89,F,En estudio,Colombia
+267,03/23/2020,Medellín,Antioquia,Casa,20 a 29,M,Importado,Estados Unidos
+268,03/23/2020,Medellín,Antioquia,Casa,30 a 39,F,Importado,España
+269,03/23/2020,Chía,Cundinamarca,Casa,50 a 59,M,Relacionado,Colombia
+270,03/23/2020,Cartagena,Bolívar,Casa,50 a 59,F,En estudio,Colombia
+271,03/23/2020,Medellín,Antioquia,Casa,20 a 29,F,Importado,España
+272,03/23/2020,Medellín,Antioquia,Casa,40 a 49,F,Importado,España
+273,03/23/2020,Medellín,Antioquia,Hospital,80 a 89,M,Importado,Panama
+274,03/23/2020,Medellín,Antioquia,Casa,30 a 39,M,Importado,Estados Unidos
+275,03/23/2020,Barbosa,Antioquia,Casa,20 a 29,F,Importado,España
+276,03/23/2020,Cota,Cundinamarca,Casa,50 a 59,M,Importado,Puerto Rico
+277,03/23/2020,Sabaneta,Antioquia,Casa,30 a 39,F,Importado,Estados Unidos
